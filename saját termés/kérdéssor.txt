@@ -1,0 +1,36 @@
+Nagyon örülök, hogy megpróbálsz segíteni, én is kiteszek magamért:
+
+Tehát dióhéjban arról volna szó, hogy energia tárolós helyett, amiknek a technológiája még kutatás alatt van, már bevált rendszert használjunk arra, hogy a megújuló energia források útjában álló kiszámíthatatlanságukat kompenzáljuk.
+
+A megoldást én az éjszakai áramhoz hasonló módszerrel képzelném el, csak finomra hangolva: tőzsdei áram árhoz igazított változó áron szolgáltatott árammal. Ez úgy lenne jól kihasználható, hogy a fogyasztókat mindenki vagy maga programozza, hogy mikor mennyi pénzért akar áramot vételezni (vagy rábízza majd erre szakosodó programozó-bróker cégekre, amik részt kapnak a megspórolt pénzből, esetleg a saját gyerkőceinek ezt ajánlja fel zsebpénznek…).
+
+Az alábbi kérdéseket gondoltam ki eddig:
+	1.	A háztartásban milyen eszközökön tudod elképzelni, hogy nem azonnal használod, hanem alkalmazkodsz a rendelkezésre álló megújuló energia mennyiséghez? Példák:
+		•	Bojler, ami estére kell felfűtsön,  de mindegy azt nap közben mikor teszi.
+		•	Mosógép, mosogatógép ami nem állhat meg ha a mosás elindult.
+		•	Fűtés, ami lehet napszak is hét napja függő. fűthet fel hőtárolós eszközt vagy kapcsolhat azonnal is egy gyors fűtőszálas megoldással.
+		•	Hűtő mindegy csak nagyon ne egyen meleg, fagyasztó mindegy, csak mínusz legyen.
+		•	Főzésből a sütés esetleg.
+		•	Elektromos autó töltés, főleg azoknak akik nem naponta használják és van nagyobb kamrájuk.
+		•	Egyéb?
+	2.	Milyen marketing gonodlatok győznének meg, hogy vállald az ezzel járó kellemetlenségeket? Pl.-k:
+		•	Gyerekeid jövője – azaz már annyi is, hogy zöld a technológia.
+		•	Gyerekeket tanítani egy ilyen technológiára, meg örülhetnek, hogy tehetnek valamit.
+		•	Ha olcsóbb lesz ettől.
+		•	Minden technika adott ehhez.
+		•	Olcsó házi akksi még nincs.
+		•	Akksik gyártása és mint szemét is környezet szennyező.
+		•	Akksi nyersanyagok kifogyhatnak mert többnyire ritka földfémek.
+		•	Akksi nyersanyagok kevés helyen férhetőek hozzá és geopolitikai játszmák részei már ma is.
+		•	Akksi nyersanyagok kitermelése harmadik világban társadalmi problémákhoz vezet, pl. oligarchásodás ill. munkavédelem hiánya miatti mérgezések.
+		•	Mi mással lehetne még meggyőzni?
+		•	Milyen ellenérzéseid vannak ezen technológiával szemben?
+	3.	A programozás milyen bonyolultsági fokait tartod elfogadhatónak?
+		•	Áramár szint alatt bekapcsol. (Ez az alap.)
+		•	Mennyi ideig ne kapcsoljon ki utána. (Esetleg ez lehet automatikus, hogy amíg fogyaszt a gép.)
+		•	Időszaktól függő áramárszint alatt kapcsol be. (Pl. lakás)
+		•	Hőérzékelővel mért hőmérséklet alapján állítja az áramár szintet. (Pl. lakás, boiler.)
+		•	Utóbbi kettő kombinációja: napi szintre lebontott programok amik egyéb érzékelési paramétertől (pl. hőmérséklet, vagy hány napja áll a szennyes a mosógépben) is függenek.
+		•	Egyéb ötlet?
+
+Előre is köszi válaszaidat!
