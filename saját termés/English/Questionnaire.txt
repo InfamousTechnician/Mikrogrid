@@ -6,29 +6,29 @@ I would imagine the solution to be a method similar to night electricity, only f
 
 So far I have come up with the following questions:
 	1. What devices in the household can you imagine not using immediately, but adapting to the amount of renewable energy available? Examples:
-		• Boiler that needs to be heated in the evening, but it doesn't matter what time of the day it is.
-		• Washing machine, dishwasher that cannot stop once the wash has started.
-		• Heating, which can depend on the time of day for seven days. you can heat up a heat storage device or switch it on immediately with a fast heating fiber solution.
-		• The fridge doesn't matter, just don't eat too hot, the freezer doesn't matter, just let it be minus.
+		• Boiler that needs to be heated by the evening, but it doesn't matter at what time of the day this happens.
+		• Washing machine, dishwasher that cannot stop once the process has started.
+		• Heating, which can depend on the time of day for seven days. You can heat up a heat storage device or switch it on immediately with a fast heating fiber solution.
+		• The fridge doesn't matter, unless it is too hot, the freezer doesn't matter, just let it be minus.
 		• Maybe from cooking to baking.
 		• Electric car charging, especially for those who do not use it every day and have a larger pantry.
-		• Else?
+		• Anything else?
 	2. What marketing concerns would convince you to accept the associated inconveniences? Examples:
 		• Your children's future - that is to say, the technology is green.
-		• Teaching children about such a technology, they can be happy to do something.
+		• Teaching children about such a technology, so they can be happy to do something.
 		• If it makes it cheaper.
-		• All techniques are given for this.
+		• All technologies exist for this, it can be done reliably.
 		• There are no cheap domestic batteries yet.
 		• The production of batteries and as waste also pollutes the environment.
 		• Battery raw materials may run out because they are mostly rare earth metals.
 		• Battery raw materials are accessible in few places and are part of geopolitical games even today.
-		• Extraction of Akksi raw materials leads to social problems in the third world, e.g. oligarchization or poisoning due to lack of work protection.
-		• What else could be used to convince?
+		• Extraction of battery raw materials leads to social problems in the third world, e.g. oligarchization or poisoning of workers as well the environment due to lack of protection.
+		• What else could be used to convince people?
 		• What objections do you have to this technology?
 	3. What levels of programming complexity do you consider acceptable?
-		• Turns on below current level. (This is the base.)
-		• How long do not switch off afterwards. (Possibly this can be automatic as long as the machine consumes.)
-		• Turns on below the electricity price level depending on the period. (e.g. apartment)
+		• Turns on below current level of electricity price. (This is the base.)
+		• How long shouldn't it switch off afterwards. (Possibly this can be automatic: as long as the machine consumes.)
+		• Turns on below the given electricity price level in a certain period of time. (e.g. apartment heating)
 		• Adjusts the electricity price level based on the temperature measured with a heat sensor. (E.g. apartment, boiler.)
 		• A combination of the latter two: programs broken down to the daily level that also depend on other sensing parameters (e.g. temperature or how many days the laundry has been in the washing machine).
 		• Another idea?
