@@ -1,38 +1,36 @@
-I'm very glad you're trying to help, I'm doing my best too:
+I'm very glad that you're trying to help, I'll put it out there for myself:
 
-So, in a nutshell, it would be about using a proven system to compensate for the unpredictability of renewable energy sources, rather than energy storage, the technology for which is still being researched.
+So, in a nutshell, it would mean that instead of energy storage, the technology of which is still under research, we should use a proven system to compensate for the unpredictability of renewable energy sources.
 
-I would envisage a solution using a method similar to night-time electricity, but fine-tuned: electricity supplied at a variable price adjusted to the price of electricity on the stock exchange. This would be well exploited by having consumers either program themselves when they want to buy electricity at what price (or entrust it to specialized programming brokerage firms, which would get a share of the money saved, or perhaps offer it to their children as pocket money...).
+I would imagine the solution to be a method similar to night electricity, only fine-tuned: draw electricity with respect to it being supplied at a variable price adjusted to the production. This could be put to good use if everyone programs the consumer devices themselves, when and how much money they want to buy electricity for (or entrust it to specialized programming-broker companies, which receive a share of the money saved, or offer this to their own children as pocket money...).
 
-I have thought of the following questions so far:
-	1. what devices in your household can you imagine not using immediately, but adapting to the amount of renewable energy available? Examples:
-		- A boiler that needs to be heated up in the evening, but does it all the same when during the day.
-		- Washing machines, dishwashers that can't stop once the wash has started.
-		- Heating, which can be time of day or day of week dependent.
-		- Refrigerators are all the same as long as they are not too hot, freezers are all the same as long as they are below zero.
-		- From cooking to baking maybe.
-		- Electric car charging, especially for those who don't use it daily and have a larger pantry.
-		- Other?
-	2. What marketing gimmicks would convince you to take the inconvenience? E.g.-:
-		- Your children's future - i.e. the very fact that technology is green.
-		- Teaching kids about such technology and they'll be happy to do something about it.
-		- If it makes it cheaper.
-		- All the technology is there.
-		- There are no cheap home batteries yet.
-		- Batteries are manufactured and as waste are polluting.
-		- Battery raw materials can run out because they are mostly rare earth metals.
-		- Battery resources are scarce and are already part of geopolitical games.
-		- The extraction of battery resources in the third world leads to social problems, e.g. poisoning due to oligarchy and lack of worker protection.
-		- What else could be used to convince you?
-		- What are your objections to this technology?
-	3. What levels of complexity of programming do you find acceptable?
-		- (This is the basic.)
-		- How long should it not turn off after that. (Maybe it could be automatic until the machine is consuming.)
-		- Turns on below a time-dependent current level. (e.g. apartment)
-		- Sets the current level based on the temperature measured by a heat sensor (e.g. apartment, boiler).
-		- Combination of the latter two: daily programmes that also depend on other sensing parameters (e.g. temperature, or how many days the laundry has been in the washing machine).
-		- Other ideas?
+So far I have come up with the following questions:
+	1. What devices in the household can you imagine not using immediately, but adapting to the amount of renewable energy available? Examples:
+		• Boiler that needs to be heated in the evening, but it doesn't matter what time of the day it is.
+		• Washing machine, dishwasher that cannot stop once the wash has started.
+		• Heating, which can depend on the time of day for seven days. you can heat up a heat storage device or switch it on immediately with a fast heating fiber solution.
+		• The fridge doesn't matter, just don't eat too hot, the freezer doesn't matter, just let it be minus.
+		• Maybe from cooking to baking.
+		• Electric car charging, especially for those who do not use it every day and have a larger pantry.
+		• Else?
+	2. What marketing concerns would convince you to accept the associated inconveniences? Examples:
+		• Your children's future - that is to say, the technology is green.
+		• Teaching children about such a technology, they can be happy to do something.
+		• If it makes it cheaper.
+		• All techniques are given for this.
+		• There are no cheap domestic batteries yet.
+		• The production of batteries and as waste also pollutes the environment.
+		• Battery raw materials may run out because they are mostly rare earth metals.
+		• Battery raw materials are accessible in few places and are part of geopolitical games even today.
+		• Extraction of Akksi raw materials leads to social problems in the third world, e.g. oligarchization or poisoning due to lack of work protection.
+		• What else could be used to convince?
+		• What objections do you have to this technology?
+	3. What levels of programming complexity do you consider acceptable?
+		• Turns on below current level. (This is the base.)
+		• How long do not switch off afterwards. (Possibly this can be automatic as long as the machine consumes.)
+		• Turns on below the electricity price level depending on the period. (e.g. apartment)
+		• Adjusts the electricity price level based on the temperature measured with a heat sensor. (E.g. apartment, boiler.)
+		• A combination of the latter two: programs broken down to the daily level that also depend on other sensing parameters (e.g. temperature or how many days the laundry has been in the washing machine).
+		• Another idea?
 
 Thanks in advance for your answers!
-
-Translated with www.DeepL.com/Translator (free version)
