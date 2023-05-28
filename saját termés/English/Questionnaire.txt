@@ -1,0 +1,38 @@
+I'm very glad you're trying to help, I'm doing my best too:
+
+So, in a nutshell, it would be about using a proven system to compensate for the unpredictability of renewable energy sources, rather than energy storage, the technology for which is still being researched.
+
+I would envisage a solution using a method similar to night-time electricity, but fine-tuned: electricity supplied at a variable price adjusted to the price of electricity on the stock exchange. This would be well exploited by having consumers either program themselves when they want to buy electricity at what price (or entrust it to specialized programming brokerage firms, which would get a share of the money saved, or perhaps offer it to their children as pocket money...).
+
+I have thought of the following questions so far:
+	1. what devices in your household can you imagine not using immediately, but adapting to the amount of renewable energy available? Examples:
+		- A boiler that needs to be heated up in the evening, but does it all the same when during the day.
+		- Washing machines, dishwashers that can't stop once the wash has started.
+		- Heating, which can be time of day or day of week dependent.
+		- Refrigerators are all the same as long as they are not too hot, freezers are all the same as long as they are below zero.
+		- From cooking to baking maybe.
+		- Electric car charging, especially for those who don't use it daily and have a larger pantry.
+		- Other?
+	2. What marketing gimmicks would convince you to take the inconvenience? E.g.-:
+		- Your children's future - i.e. the very fact that technology is green.
+		- Teaching kids about such technology and they'll be happy to do something about it.
+		- If it makes it cheaper.
+		- All the technology is there.
+		- There are no cheap home batteries yet.
+		- Batteries are manufactured and as waste are polluting.
+		- Battery raw materials can run out because they are mostly rare earth metals.
+		- Battery resources are scarce and are already part of geopolitical games.
+		- The extraction of battery resources in the third world leads to social problems, e.g. poisoning due to oligarchy and lack of worker protection.
+		- What else could be used to convince you?
+		- What are your objections to this technology?
+	3. What levels of complexity of programming do you find acceptable?
+		- (This is the basic.)
+		- How long should it not turn off after that. (Maybe it could be automatic until the machine is consuming.)
+		- Turns on below a time-dependent current level. (e.g. apartment)
+		- Sets the current level based on the temperature measured by a heat sensor (e.g. apartment, boiler).
+		- Combination of the latter two: daily programmes that also depend on other sensing parameters (e.g. temperature, or how many days the laundry has been in the washing machine).
+		- Other ideas?
+
+Thanks in advance for your answers!
+
+Translated with www.DeepL.com/Translator (free version)
